@@ -23,7 +23,7 @@ public class RegistroUsuarios extends HttpServlet {
         super();
         // TODO Auto-generated constructor stub
     }
-
+// se agrego un comentario, nada mas
 	/**
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
